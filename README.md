@@ -1,86 +1,87 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
-</div>  
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+</div>   
+   
+ 
+<h1 align="center">Hello 👋, I'm Vijay KV</h1>
+<h3 align="center">A Full Stack Developer is in making.</h3>
+<hr>
+<p align="center">
+    <a href="https://www.linkedin.com/in/vijaykv555/" target="_blank"><img align="center"
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="Vijay" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/vijay_5_5_5/?hl=en" target="_open"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="vaibhzz101 height="30" width="40" /></a>
   
 
-### <div align="center">I'm Vijay KV, a Passionate Frontend developer 👨‍💻 </div>  
+    
+- 🔭 I’m currently pursuing **Full Stack Web Development**
+
+- 🌱 I’m currently learning **Backend development**
+
+- 💬 Ask me about **HTML, CSS, JavaScript & React**
+
+- 📫 How to reach me **vijaykv2228@gmail.com**
+
+- 📃 Look at my [Resume](https://drive.google.com/file/d/1Sj9ercI8JyFWxTVExH9_z_zFceGxfmS8/view?usp=sharing) 
+
+- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Vijaykv5)
+
+- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+
+
+
+<br> 
+
+<h2 align="center"><i>Tech Stack</i></h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+        alt="tailwind" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+        alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+        alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+        alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+        alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+        alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+   
+</p>
+<p align="center"><img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Vijaykv5&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
+<p align="center">
+    <a href="https://github.com/Vijaykv5">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaykv5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/vaibhzz101"><img alt="vaibhav's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=Vijaykv5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+     </a>
+</p>
+
+  <!-- deivder -->
   
-
-- 🔭 I’m currently a 2nd Year Student   
+  <p align="center">
+    <a href="https://github.com/vaibhzz101"><span>
+        <img align="center"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijaykv5&theme=github_dark" width="100%" />
+      </span></a>
+  </p>
   
-
-- 🌱 I’m currently learning React JS   
-  
-
-- 📷 Interested in Photography and Stuffs  
-  
-
-<br/>  
-
-
-## My Skill Set  
-
-
-
-
-### Technologies  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
-
-
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/vijay_5_5_5" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/vijaykv555" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Vijaykv5" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vijaykv5&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Vijaykv5&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-## Support Me  
-<div align="center">
-            <a href="https://paypal.me/VijayKv2228" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
