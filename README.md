@@ -10,9 +10,7 @@
     <a href="https://www.linkedin.com/in/vijaykv555/" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Vijay" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/vijay_5_5_5/?hl=en" target="_open"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="vaibhzz101 height="30" width="40" /></a>
+   
   
 
     
