@@ -24,7 +24,7 @@
 <b>Happy to see you here!   </b>
 <br>
 <br>
-<p>I am a Full Stack Developer currently contributing to open source projects to gain knowledge and engage in the community. 🚀</p>
+<p>I am a Full Stack Developer currently contributing to open source projects to gain more knowledge and engage within the community. 🚀</p>
 <p>I thrive on problem-solving and innovative thinking, driven by purpose and the challenge of finding solutions. With expertise in JavaScript, Node.js, MongoDB, React, Next.js, Docker, and more, I've led diverse tech teams spanning Frontend and Backend. Passionate about building scalable products from scratch to make a positive impact through technology.</p>
 <p>Outside of coding, I'm an eager explorer of new tech and a continuous learner. In recent time, I've been focused on programming, building a solid frontend stack and creating exciting projects that solve real-world problems.</p>
 
