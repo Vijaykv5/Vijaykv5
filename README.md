@@ -1,33 +1,32 @@
-<div align="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div>   
+<div align="">
+    <a href="/">
+        <img src="https://i.ibb.co/S3WWyJt/Vijay-KV-1200-x-400-px.png" style="width: 100%;" alt="Vijay-KV-1200-x-400-px" border="0">
+    </a>
+    <br>
+</div>
+<br>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vijaykv555/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: invert(35%) sepia(88%) saturate(2907%) hue-rotate(190deg) brightness(94%) contrast(88%);"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Vijaykv555"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png" style="filter: invert(20%) sepia(78%) saturate(4768%) hue-rotate(152deg) brightness(91%) contrast(88%);"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fAHq5fbm" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png" style="filter: invert(45%) sepia(40%) saturate(2766%) hue-rotate(165deg) brightness(90%) contrast(85%);"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png" style="filter: invert(81%) sepia(18%) saturate(749%) hue-rotate(193deg) brightness(89%) contrast(85%);"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+</p>
+
+  
    
  
-<h1 align="center">Hello 👋, I'm Vijay KV</h1>
-<h3 align="center">A Full Stack Developer is in making.</h3>
-<hr>
-<p align="center">
-    <a href="https://www.linkedin.com/in/vijaykv555/" target="_blank"><img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="Vijay" height="30" width="40" /></a>
-   
-  
-
-    
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-
-- 🌱 I’m currently learning **Backend development**
-
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
-
-- 📫 How to reach me **vijaykv2228@gmail.com**
-
-- 📃 Look at my [Resume](https://drive.google.com/file/d/1Sj9ercI8JyFWxTVExH9_z_zFceGxfmS8/view?usp=sharing) 
-
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Vijaykv5)
-
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
-
+<h2>Hey there 👋</h2>
+<b>Happy to see you here!   </b>
+<br>
+<br>
+<p>I am a Full Stack Developer currently contributing to open source projects inorder to gain knowledge and engage in the community. 🚀</p>
+<p>I thrive on problem-solving and innovative thinking, driven by purpose and the challenge of finding solutions. With expertise in JavaScript, Node.js, MongoDB, React, Next.js, Docker, and more, I've led diverse tech teams spanning Frontend and Backend. Passionate about building scalable products from scratch to make a positive impact through technology.</p>
+<p>Outside of coding, I'm an eager explorer of new tech and a continuous learner. In recent time, I've been focused on programming, building a solid frontend stack and creating exciting projects that solve real-world problems.</p>
 
 
 <br> 
@@ -62,24 +61,8 @@
 </p>
 <p align="center"><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Vijaykv5&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
-<p align="center">
-    <a href="https://github.com/Vijaykv5">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaykv5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/vaibhzz101"><img alt="vaibhav's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=Vijaykv5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-     </a>
-</p>
 
-  <!-- deivder -->
+
   
-  <p align="center">
-    <a href="https://github.com/vaibhzz101"><span>
-        <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijaykv5&theme=github_dark" width="100%" />
-      </span></a>
-  </p>
+  
   
