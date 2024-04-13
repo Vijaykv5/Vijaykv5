@@ -1,6 +1,6 @@
 <div align="">
     <a href="/">
-        <img src="https://i.ibb.co/S3WWyJt/Vijay-KV-1200-x-400-px.png" style="width: 100%" alt="Vijay-KV-1200-x-400-px" border="0">
+        <img src="https://github.com/Vijaykv5/Vijaykv5/assets/94985341/7156943a-053e-48d5-be1f-69113e4dc51b" style="width: 100%" alt="Vijay-KV-1200-x-400-px" border="0">
     </a>
     <br>
 </div>
